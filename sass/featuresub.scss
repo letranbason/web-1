@@ -1,0 +1,112 @@
+#CP_FeatureSub {
+	background-image: -webkit-gradient(linear, left top, right top, from(#2d82a1), to(#2da1a0));
+	background-image: linear-gradient(to right, #2d82a1, #2da1a0);
+}
+
+.modal-backdrop,
+body.blurFix #CP_StyleOverlay {
+	background: rgba(244, 250, 252, .9);
+}
+
+@media (min-width: 992px) {
+	#CP_SmartMenu ul a:hover,
+	#CP_SmartMenu ul a:focus,
+	#CP_SmartMenu ul a:active,
+	#CP_SmartMenu ul a.highlighted {
+		color: #fff;
+		background: #2da1a0;
+	}
+	#CP_SmartMenu a .sub-arrow {
+		border-top: 8px solid #2da1a0;
+	}
+
+	#CP_SmartMenu ul a .sub-arrow {
+		border-left: 4px solid #2da1a0;
+	}
+
+	#CP_SmartMenu .scroll-up-arrow,
+	#CP_SmartMenu .scroll-down-arrow {
+		border-color: transparent transparent #2da1a0 transparent;
+	}
+
+	#CP_SmartMenu .scroll-down-arrow {
+		border-color: #2da1a0 transparent transparent transparent;
+	}
+}
+@media (max-width: 991px) {
+	#CP_FeatureHome .container .tagline {
+		background: linear-gradient(0deg, rgba(244,250,252,.7) 75%, rgba(244,250,252,0) 100%);
+	}
+}
+.color-1 {
+	color: #2da1a0 !important;
+	border-color: #2da1a0 !important;
+}
+
+.bg-color-1 {
+	background-color: #2da1a0 !important;
+	border-color: #2da1a0 !important;
+	color: #fff !important;
+}
+
+.color-2 {
+	color: #2d82a1 !important;
+	border-color: #2d82a1 !important;
+}
+
+.bg-color-2 {
+	background-color: #2d82a1 !important;
+	border-color: #2d82a1 !important;
+	color: #fff !important;
+}
+
+.color-3 {
+	color: #f4fafc !important;
+	border-color: #f4fafc !important;
+}
+
+.bg-color-3 {
+	background-color: #f4fafc !important;
+	border-color: #f4fafc !important;
+}
+
+.white {
+	color: #fff !important;
+}
+
+.bg-white {
+	background-color: #fff !important;
+	border-color: #fff !important;
+}
+
+.black {
+	color: #000 !important;
+}
+
+.bg-black {
+	background-color: #000 !important;
+	border-color: #000 !important;
+	color: #fff !important;
+}
+
+.btn-default,
+.btn-default:focus,
+.btn-default:active {
+	color: #2da1a0;
+	border-color: #2da1a0;
+}
+
+.btn-default:hover,
+.btn-default:active:hover,
+.btn-primary,
+.btn-primary:focus,
+.btn-primary:active {
+	background: #2da1a0;
+	border-color: #2da1a0;
+}
+
+.btn-primary:hover,
+.btn-primary:active:hover {
+	background: #2d82a1;
+	border-color: #2d82a1;
+}

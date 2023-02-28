@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{enable-background:new    ;}
+	.st1{fill:#2D3E50;}
+	.st2{fill:#2DA1A0;}
+</style>
+<g id="Rectangle_1_1_" class="st0">
+	<g id="Rectangle_1">
+		<g>
+			<path class="st1" d="M0,255h110V145H0V255z M145,145v110h110V145H145z M0,400h110V290H0V400z M145,400h110V290H145V400z"/>
+		</g>
+	</g>
+</g>
+<g id="Rectangle_2_1_" class="st0">
+	<g id="Rectangle_2">
+		<g>
+			<path class="st2" d="M290,0v110h110V0H290z M145,110h110V0H145V110z M290,255h110V145H290V255z"/>
+		</g>
+	</g>
+</g>
+</svg>

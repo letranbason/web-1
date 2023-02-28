@@ -1,0 +1,25 @@
+	#CP_FeatureHome {
+		height:70vh;
+	}
+	#CP_FeatureHome .container {
+		-ms-flex-align: flex-end;
+		-webkit-align-items: flex-end;
+		-webkit-box-align: end;
+		align-items: flex-end;
+		z-index: 4;
+	}
+	#CP_FeatureHome .container .tagline {
+		text-align: center;
+		padding: 60px 15px 20px;
+	}
+	#CP_FeatureHome #Person {
+		right: 50%;
+		transform: translateX(50%);
+	}
+	#logo {
+		text-align: center;
+		float: none;
+	}
+	#logo img {
+		max-width: 100%;
+	}
